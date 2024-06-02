@@ -942,4 +942,5 @@ const cn_hostnames = [
 	'www.cnblogs.com',          // Cnblogs - A Chinese technology blog community
 	'www.cntv.cn',              // CCTV - China Central Television official website
 	'www.secoo.com',            // Secoo - A Chinese luxury e-commerce platform
+	'm3u.haiwaikan.com',            // Secoo - A Chinese luxury e-commerce platform	
 ];
